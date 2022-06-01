@@ -1,3 +1,7 @@
+
+### `Bored just made for fun or revision (nothing bad init)`
+to check this [click me](https://revision-55555.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
