@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+.App button {
+  background-color: aqua;
+  font-size: 1.5rem;
+  font-weight: 400;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 0.5rem 0.25rem aqua;
+  padding: 0.75rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
